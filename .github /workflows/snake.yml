@@ -1,0 +1,21 @@
+name: Generate Snake Game
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # This will run the action daily at midnight
+  push:
+    branches:
+      - main  # Change this to your default branch if it's different
+
+jobs:
+  generate-snake:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate Snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: 'ish-g'  # Replace with your GitHub username
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
