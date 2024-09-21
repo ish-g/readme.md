@@ -26,7 +26,7 @@ Data Engineer | AI Explorer | Passionate Data Scientist | Transforming Challenge
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/ish-g/readme.md/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/ish-g/ish-g/output/snake.svg" alt="Snake animation" />
 
 
 
