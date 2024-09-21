@@ -28,17 +28,7 @@ Data Engineer | AI Explorer | Passionate Data Scientist | Transforming Challenge
 
 <img src="https://raw.githubusercontent.com/ish-g/readme.md/output/snake.svg" alt="Snake animation" />
 
-###
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=jayantverma2809&theme=flag-india&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=jayantverma2809&theme=flag-india&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jayantverma2809&theme=flag-india&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=jayantverma2809&limit=5&theme=flag-india&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ishwargupta4554&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
-
-![GitHub stars](https://img.shields.io/github/stars/ish-g/readme.md)
